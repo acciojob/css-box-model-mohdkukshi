@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+
+.container3 {
+    width: 300px;
+    border: 15px solid blue;
+    background-color: lightblue;
+    padding: 50px;
+    margin: 20px;
+}
+
+.container2 {
+    border: 2px solid black;
+    width: 480px;
+}
