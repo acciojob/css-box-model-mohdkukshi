@@ -1,15 +1,10 @@
 
 /* Your CSS Code here. */
 
-.container3 {
+div {
     width: 300px;
-    border: 15px solid blue;
-    background-color: lightblue;
+    border: 15px solid rgb(0, 0, 255);
+    background-color: rgb(173, 216, 230);
     padding: 50px;
     margin: 20px;
-}
-
-.container2 {
-    border: 2px solid black;
-    width: 480px;
 }
